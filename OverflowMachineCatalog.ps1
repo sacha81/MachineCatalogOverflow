@@ -20,7 +20,7 @@
 	The provided Desktop/App must be restricted to machines with the Tag : "availibleForUsers"
 
     Important! All Maschines in MachineCatalog must be Member of DeliveryGroup or set to MaintenanceMode as the Count goes to MC.
-    More infos here: http://blog.sachathomet.ch/2019/06/02/machine-catalog-with-overflow/ 
+    More infos here: http://blog.sachathomet.ch/de/2019/06/08/machinecatalog-with-overflow/
    
 .EXAMPLE
    Example of how to use this cmdlet
